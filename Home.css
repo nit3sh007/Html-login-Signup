@@ -1,0 +1,23 @@
+<style> 
+input[type=text] {
+   padding: 10px 0px;
+  margin: 8px 0;
+  box-sizing: border-box;
+}
+input[type=password] {
+ 
+  padding: 10px 0px;
+  margin: 8px 0;
+    height:20px;
+  box-sizing: border-box;
+    color: aqua;
+    
+
+}
+    body{
+        background-image: url(bg.jpg);
+        background-repeat:round;
+    }
+    
+ 
+</style>
